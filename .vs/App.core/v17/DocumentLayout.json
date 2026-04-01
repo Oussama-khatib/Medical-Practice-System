@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC50932E-B92D-4A03-83A4-EF2C4068BB45}|WebApp.API\\WebApp.API.csproj|c:\\users\\user\\source\\repos\\backend\\webapp.api\\controllers\\diseasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC50932E-B92D-4A03-83A4-EF2C4068BB45}|WebApp.API\\WebApp.API.csproj|solutionrelative:webapp.api\\controllers\\diseasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC50932E-B92D-4A03-83A4-EF2C4068BB45}|WebApp.API\\WebApp.API.csproj|c:\\users\\user\\source\\repos\\backend\\webapp.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC50932E-B92D-4A03-83A4-EF2C4068BB45}|WebApp.API\\WebApp.API.csproj|solutionrelative:webapp.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFF55770-EA83-412B-94C2-EDF5765DA20A}|App.Application\\App.Application.csproj|c:\\users\\user\\source\\repos\\backend\\app.application\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFF55770-EA83-412B-94C2-EDF5765DA20A}|App.Application\\App.Application.csproj|solutionrelative:app.application\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC50932E-B92D-4A03-83A4-EF2C4068BB45}|WebApp.API\\WebApp.API.csproj|c:\\users\\user\\source\\repos\\backend\\webapp.api\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC50932E-B92D-4A03-83A4-EF2C4068BB45}|WebApp.API\\WebApp.API.csproj|solutionrelative:webapp.api\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC50932E-B92D-4A03-83A4-EF2C4068BB45}|WebApp.API\\WebApp.API.csproj|c:\\users\\user\\source\\repos\\backend\\webapp.api\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC50932E-B92D-4A03-83A4-EF2C4068BB45}|WebApp.API\\WebApp.API.csproj|solutionrelative:webapp.api\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC50932E-B92D-4A03-83A4-EF2C4068BB45}|WebApp.API\\WebApp.API.csproj|c:\\users\\user\\source\\repos\\backend\\webapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC50932E-B92D-4A03-83A4-EF2C4068BB45}|WebApp.API\\WebApp.API.csproj|solutionrelative:webapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC50932E-B92D-4A03-83A4-EF2C4068BB45}|WebApp.API\\WebApp.API.csproj|c:\\users\\user\\source\\repos\\backend\\webapp.api\\service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC50932E-B92D-4A03-83A4-EF2C4068BB45}|WebApp.API\\WebApp.API.csproj|solutionrelative:webapp.api\\service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Backend\\WebApp.API\\Program.cs",
+              "RelativeDocumentMoniker": "WebApp.API\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Backend\\WebApp.API\\Program.cs",
+              "RelativeToolTip": "WebApp.API\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAADYAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T08:04:34.978Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DiseaseController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Backend\\WebApp.API\\Controllers\\DiseaseController.cs",
+              "RelativeDocumentMoniker": "WebApp.API\\Controllers\\DiseaseController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Backend\\WebApp.API\\Controllers\\DiseaseController.cs",
+              "RelativeToolTip": "WebApp.API\\Controllers\\DiseaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T07:05:37.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Backend\\WebApp.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "WebApp.API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Backend\\WebApp.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "WebApp.API\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T08:15:37.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Backend\\WebApp.API\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "WebApp.API\\Controllers\\PatientController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Backend\\WebApp.API\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "WebApp.API\\Controllers\\PatientController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T18:23:27.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Backend\\WebApp.API\\Service\\TokenService.cs",
+              "RelativeDocumentMoniker": "WebApp.API\\Service\\TokenService.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Backend\\WebApp.API\\Service\\TokenService.cs",
+              "RelativeToolTip": "WebApp.API\\Service\\TokenService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADAAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T17:58:32.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppointmentService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Backend\\App.Application\\AppointmentService.cs",
+              "RelativeDocumentMoniker": "App.Application\\AppointmentService.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Backend\\App.Application\\AppointmentService.cs",
+              "RelativeToolTip": "App.Application\\AppointmentService.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAAFkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T11:16:36.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Backend\\WebApp.API\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "WebApp.API\\Controllers\\AppointmentController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Backend\\WebApp.API\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "WebApp.API\\Controllers\\AppointmentController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAAEkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T11:07:41.866Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
